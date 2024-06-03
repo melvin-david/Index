@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta charset="utf-8">
+<title>Melvin David</title>
+</head>
+
+<body>
+
+<h1><strong style="background-color:LightSeaGreen;">Melvin David</strong></h1>
+<nav><em>
+<strong><a href="">Link One</a>  </strong>
+<strong><a href="">Link Two</a>  </strong>
+<strong><a style="background-color:LightSeaGreen;" href="">Link Three</a></strong>
+<strong><a href="">Your Choice</a>  </strong>
+</em></nav>
+
+<h2>Favourite Foods</h2>
+<ul>
+<li><strong style="background-color:LightSeaGreen;">Biriyani</strong></li>
+<li><strong style="background-color:LightSeaGreen;">Pizza</strong></li>
+<li><strong style="background-color:LightSeaGreen;">BBQ</strong></li>
+<li><strong style="background-color:LightSeaGreen;">Noodles</strong></li>
+</ul>
+
+<h2>Achievements</h2>
+<label for='course'>Progress in this course(100%)</label>
+<progress id='course' value='100' max='100'></progress>
+<br>
+<label for='cap'>Progress in the Specialization capstone(20%)</label>
+<progress id='cap' value='20' max='100'></progress>
+<br>
+<label for='goal'>Progress in life goals<mark color="LightSeaGreen;" style="background-color:LightSeaGreen;">
+(67%)</label>
+<mark style="background-color:LightSeaGreen;"><progress id='goal' value='67' max='100'></progress></mark>
+</mark>
+<br>
+
+
+<h2>More About Me</h2>
+<details>
+<summary>My Childhood</summary>
+<p>
+<strong style="background-color:LightSeaGreen;">I grew up in Palakkad.</strong><br>
+</p>
+</details>
+
+<footer>
+<p>
+<img src="newlogo.png" alt="NewLogo Image">
+<italic>This page was created by <strong style="background-color:LightSeaGreen;">Melvin David</strong> and Colleen Van Lent.
+ To learn more about web design, visit <a href="https://intro-webdesign.com">Intro to Web Design</a></italic>
+</p>
+</footer>
+
+</body>
+</html>
